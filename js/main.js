@@ -49,7 +49,7 @@ function init(){
 
     //view = new View();
     view.init( initAmmo );
-    intro.init('Ammo: Kripken | Lab: 3th');
+    intro.init('Physics: Staging| Visar Labs');
     
 
 }
